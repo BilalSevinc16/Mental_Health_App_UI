@@ -1,16 +1,5 @@
-# mental_health_app_ui
+# Mental_Health_App_UI
 
-A new Flutter project.
+Mental Health App UI
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/BilalSevinc16/Mental_Health_App_UI/assets/146417248/42e70b5a-d314-4e7a-a6b1-06b217bb224d)
